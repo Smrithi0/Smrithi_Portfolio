@@ -159,36 +159,6 @@ Local Flask Application
 
 The project can be updated by pushing the latest changes to the GitHub repository and redeploying the application.
 
-## 8. GitHub Repository
-
-The source code for this portfolio is maintained on GitHub.
-
-**GitHub:**
-https://github.com/Smrithi0
-
-## 9. Contact
-
-For professional opportunities, collaboration, or project-related discussions:
-
-**Name:** Smrithi S.
-
-**LinkedIn:**
-https://linkedin.com/in/smrithi-s-6791a227b
-
-**GitHub:**
-https://github.com/Smrithi0
-
-## 10. Future Improvements
-
-Planned improvements may include:
-
-* Adding more cloud-security projects
-* Improving portfolio animations and interactions
-* Adding detailed project case studies
-* Integrating a contact form
-* Adding additional cloud certifications and achievements
-* Improving accessibility and performance
-
 ---
 
 ## About
